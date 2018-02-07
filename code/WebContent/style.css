@@ -1,0 +1,66 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px;  background-color: #FFF3F7;
+}
+h1{ font-family: Trebuchet MS, Arial, Helvetica, sans-serif; letter-spacing: -.075em; Font-size: 35px; font-weight: bold; color:#FFFFFF; margin-bottom:0px; margin-top:0px; padding-bottom: 0px;
+}
+h2{ font-family: Trebuchet MS, Arial, Helvetica, sans-serif; font-size:25px; font-weight:normal; color:#809B30; margin-bottom:0px; margin-top:0px; padding-left: 0px;
+}
+h2 A {COLOR: #809B30; TEXT-DECORATION: none;
+}h2 A:hover {color:#000000; text-decoration:none;
+}
+h3{ font-family: Trebuchet MS, Arial, Helvetica, sans-serif; font-size:20px; font-weight:normal; color:#7E9932; margin-bottom:0px; margin-top:0px;
+}h3 A {COLOR: #7E9932; TEXT-DECORATION: none;
+}h3 A:hover {color:#D10000; text-decoration:none;
+}
+h4{ font-family: Trebuchet MS, Arial, Helvetica, sans-serif; ont-size:15px; font-weight:bold; color:#183C42; margin-bottom:0px; margin-top:0px; padding-left: 0px;
+}
+
+.headermenu { font-family:Arial, Helvetica, sans-serif; font-size: 14px; text-transform:capitalize; font-weight: bold; color: #ffffff;
+}.headermenu A {COLOR: #ffffff; TEXT-DECORATION: none;
+}.headermenu A:hover {color:#000000; text-decoration:none;
+}
+
+.bodytext { font-family: Trebuchet MS, Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; color: #666666; line-height:20px;
+}.bodytext A {COLOR: #7E9932; TEXT-DECORATION: underline; font-weight:bold;
+}.bodytext A:hover {color:#000000; text-decoration:none; font-weight:bold;
+}
+
+.smtxtwhite { font-family:Arial, Helvetica, sans-serif; font-size: 11px; font-weight: none; color: #FFFFFF; 
+}.smtxtwhite A {COLOR: #FFFFFF; TEXT-DECORATION: none;  font-weight: bold;
+}.smtxtwhite A:hover {color:#FFFFFF; text-decoration:Underline;  font-weight: bold;
+}
+
+.deals { font-family: Trebuchet MS, Arial, Helvetica, sans-serif; font-size: 13px; padding-left:5px; font-weight: normal; color: #666666; line-height:20px;
+}.deals A {COLOR: #809B30; TEXT-DECORATION: none;
+}.deals A:hover {color:#000000; text-decoration:none;
+}
+
+.smtxt { font-family:Trebuchet MS, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #000000; padding-left:5px;
+}.smtxt A {COLOR: #000000; TEXT-DECORATION: none; font-size: 11px; font-weight: bold;
+}.smtxt A:hover {color:#000000; text-decoration:underline; font-size: 11px; 
+}
+
+.formbutton-alert { FONT-WEIGHT: bold; BORDER-RIGHT: 1px solid; BORDER-TOP: 0px solid; FONT-SIZE: 11px; line-height:23px; BACKGROUND: #840000; MARGIN: 0px; BORDER-LEFT: 0px solid; CURSOR: pointer; COLOR: #FFFFFF; BORDER-BOTTOM:1px solid; FONT-FAMILY: Arial, Sans-Serif;
+}
+
+.more { font-family: Trebuchet MS, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; padding-right:5px; color: #FF0000; line-height:17px;
+}.more A {COLOR: #FF0000; TEXT-DECORATION: underline;
+}.more A:hover {color:#000000; text-decoration:none;
+}
+
+.sidenav { font-family: Trebuchet MS, Arial, Helvetica, sans-serif;COLOR: #809B30; TEXT-DECORATION: inherit; font-size: 13px; font-weight: normal; color: #666666; line-height:20px;
+}.sidenav A {COLOR: #809B30; TEXT-DECORATION: none;
+}.sidenav A:hover {color:#000000; text-decoration:none;
+}
+
+.footer { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style:normal; font-weight: none; color: #809B30; line-height:18px; padding-left:50px;
+}.footer A {COLOR: #FFFFFF; TEXT-DECORATION: none;  font-weight: bold;
+}.footer A:hover {color:#FFFFFF; text-decoration:Underline;  font-weight: bold;
+}
+
+small
+{
+	text-decoration: blink;
+	text-transform: capitalize;
+	color: appworkspace;
+}
